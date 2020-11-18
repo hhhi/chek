@@ -1,0 +1,11 @@
+.title{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.red{
+    text-emphasis: none;
+    color: red;
+}
